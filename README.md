@@ -98,7 +98,3 @@ Future Enhancements:
 
 Author:
 Neha Shende
-
-Email: <your-email>
-
-LinkedIn: <your-linkedin>
